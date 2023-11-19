@@ -13,7 +13,8 @@ Diabetes is one of the leading chronic disease affecting at least 10% of the glo
 - Data cleaned with 24 columns retained that are assumed to be relevant to diabetes.
 - A predictive model using Logistic Regression to predict occurence of Diabetes.
   -- Achieved a recall rate of 0.985
-- Tableau Visualization of the Data Analysis - [here][https://public.tableau.com/views/DiabetesCDCAnalysis/Health_Diabetes?:language=en-GB&:display_count=n&:origin=viz_share_link]
+- Tableau Visualization of the Data Analysis - [here](https://public.tableau.com/views/DiabetesCDCAnalysis/Health_Diabetes?:language=en-GB&:display_count=n&:origin=viz_share_link)
+- Download sourcedata [here](https://www.cdc.gov/brfss/annual_data/2022/files/LLCP2022XPT.zip)
 
 # How to use?
 Clone the source locally:
